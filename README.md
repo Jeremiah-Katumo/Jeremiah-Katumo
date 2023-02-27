@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://www.r-project.org/about.html" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92439632/221678394-4d426734-62e6-400e-b1bb-94eea8e39368.png" alt="R_language" height=30px width=40px /></a>
-  <a href="https://www.python.org" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/92439632/221679056-f734f5fd-3217-42b6-9863-30d3754c3b72.png" alt="python_language" height=30px width=40px /></a>
+  <a href="https://www.python.org" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92439632/221679056-f734f5fd-3217-42b6-9863-30d3754c3b72.png" alt="python_language" height=30px width=40px /></a>
   <a href="https://www.mysql.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92439632/221679786-d08cf1a4-1bd6-42a2-88ca-ce7cb1a92829.png" alt="mysql" height=30px width=40px /></a>
   <a href="https://scikit-learn.org" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" height=30px width=40px /></a>
+</p>
