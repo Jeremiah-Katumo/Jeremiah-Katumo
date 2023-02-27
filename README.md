@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there 👋, I'm Jeremiah Katumo</h1>
 <h2 align="center">A Data Science Developer</h2>
+
 - 🔭 I’m currently working on **building my personal website using JavaScript.**
 
 - 🌱 I’m currently learning **machine learning and software development.**
