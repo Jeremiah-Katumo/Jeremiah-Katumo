@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Jeremiah-Katumo/Jeremiah-Katumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,4 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **Most of the time is not glamorous.**
 
 <h2 align="left">Get In Touch:</h2>
-<a href href="https://twitter.com/Jere_Paine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jere_Paine height=30px width=40px><img></a>
+<p align="left">
+  <a href="https://twitter.com/Jere_Paine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jere_Paine height=30px width=40p /></a>
+    <a href="https://www.linkedin.com/in/jeremiah-kurwa-27556b230" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeremiah-(Katumo)-Kurwa" height=30px width=40px /></a>
+    <a href="https://medium.com/@jeremykatush" target="blank"><img src="![image](https://user-images.githubusercontent.com/92439632/221664963-1be61a58-443e-4d48-8958-e62a38016a42.png)" alt="jeremykatush"></a>
+</p>
