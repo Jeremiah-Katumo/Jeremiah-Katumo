@@ -42,4 +42,7 @@ Here are some ideas to get you started:
   <a href="https://www.mysql.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92439632/221679786-d08cf1a4-1bd6-42a2-88ca-ce7cb1a92829.png" alt="mysql" height=30px width=40px /></a>
   <a href="https://scikit-learn.org" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" height=30px width=40px /></a>
   <a href="https://shiny.rstudio.com" target="blank"><img align="center" src="https://www.worldbank.org/content/dam/photos/780x439/2021/apr/Shiny-logo.png" alt="shiny" height=30px width=50px /></a>
+  <a href="https://www.tensorflow.org" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height=30px width=40px /></a>
+  <a href="https://www.fast.ai" target="blank"><img align="center" src="https://github.com/fastai/logos/blob/main/fastai_small.png" alt="fastai_icon" height=30px width=40px /></a>
+  <a href="https://www.w3schools.com/css/css_website_layout.asp" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css_image" height=30px width=40px /></a>
 </p>
