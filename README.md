@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
          
 <h2 align="left">Get In Touch:</h2>
-<a href href="https://twitter.com/Jere_Paine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jere_Paine height=30px width=40px<img></a>
+<a href href="https://twitter.com/Jere_Paine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jere_Paine height=30px width=40px><img></a>
